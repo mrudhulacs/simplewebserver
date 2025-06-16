@@ -5,35 +5,34 @@
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
 
 ## DESIGN STEPS:
-### Step 1: 
-HTML content creation.
 
-### Step 2:
-Design of webserver workflow.
+1. HTML content creation.
 
-### Step 3:
-Implementation using Python code.
+2. Design of webserver workflow.
 
-### Step 4:
-Import the necessary modules.
 
-### Step 5:
-Define a custom request handler.
+3. Implementation using Python code.
 
-### Step 6:
-Start an HTTP server on a specific port.
 
-### Step 7:
-Run the Python script to serve web pages.
+4.Import the necessary modules.
 
-### Step 8:
-Serve the HTML pages.
 
-### Step 9:
-Start the server script and check for errors.
+5.Define a custom request handler.
 
-### Step 10:
-Open a browser and navigate to http://127.0.0.1:5500/simple.html (or the assigned port).
+
+6.Start an HTTP server on a specific port.
+
+
+7. Run the Python script to serve web pages.
+
+
+8. Serve the HTML pages.
+
+
+9. Start the server script and check for errors.
+
+
+10. Open a browser and navigate to http://127.0.0.1:5500/simple.html (or the assigned port).
 
 ## PROGRAM:
 
